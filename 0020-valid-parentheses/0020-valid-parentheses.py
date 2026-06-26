@@ -14,5 +14,15 @@ class Solution:
                     return False
                 if stack[-1]!= pairs[ch]:
                     return False
+                """
+                if ch == ")" and top != "(":
+                    return False
+
+                if ch == "]" and top != "[":
+                    return False
+
+                if ch == "}" and top != "{":
+                    return False
+                """
                 stack.pop()
         return len(stack) == 0
