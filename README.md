@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
