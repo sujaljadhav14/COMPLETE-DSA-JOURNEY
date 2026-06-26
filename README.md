@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
@@ -91,9 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
