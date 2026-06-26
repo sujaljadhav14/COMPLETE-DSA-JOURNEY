@@ -17,3 +17,19 @@ class Solution:
                 stack.append(ch)
         t_stack = "".join(stack)
         return s_stack == t_stack
+        """
+        Solution usong the helper function
+
+        def process(string):
+            stack = []
+
+            for ch in string:
+                if ch == "#":
+                    if stack:
+                        stack.pop()
+                else:
+                    stack.append(ch)
+
+            return "".join(stack)
+
+        return process(s) == process(t)"""
