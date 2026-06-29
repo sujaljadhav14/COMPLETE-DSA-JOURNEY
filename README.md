@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0709-to-lower-case](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1544-make-the-string-great) |
