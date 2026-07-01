@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
