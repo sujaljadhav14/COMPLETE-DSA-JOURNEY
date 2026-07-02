@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0844-backspace-string-compare) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0739-daily-temperatures) |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
