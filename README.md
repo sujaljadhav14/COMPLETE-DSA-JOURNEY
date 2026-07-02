@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/2235-add-two-integers) |
 ## Two Pointers
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
