@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0704-binary-search) |
 ## String
