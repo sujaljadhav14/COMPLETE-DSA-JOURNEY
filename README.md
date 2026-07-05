@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1816-truncate-sentence) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## String
 |  |
 | ------- |
