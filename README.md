@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1816-truncate-sentence) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## String
 |  |
 | ------- |
