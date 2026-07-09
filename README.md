@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0739-daily-temperatures) |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0620-not-boring-movies) |
 | [1683-invalid-tweets](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1757-recyclable-and-low-fat-products) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
