@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0217-contains-duplicate) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0049-group-anagrams) |
 | [0402-remove-k-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0709-to-lower-case) |
