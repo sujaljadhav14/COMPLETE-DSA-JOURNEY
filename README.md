@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
@@ -200,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
