@@ -190,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
