@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0202-happy-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0141-linked-list-cycle) |
