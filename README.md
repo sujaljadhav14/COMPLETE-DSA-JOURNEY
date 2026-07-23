@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
