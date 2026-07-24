@@ -16,8 +16,8 @@ class Solution:
                 tail.next=list2
                 tail=tail.next
                 list2=list2.next
-        if(not list1):
-            tail.next=list2
-        if(not list2):
-            tail.next=list1
+        if list1:
+            tail.next = list1
+        else:
+            tail.next = list2
         return dummy.next
