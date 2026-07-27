@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0456-132-pattern) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0933-number-of-recent-calls) |
 ## Greedy
@@ -244,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
