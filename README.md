@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/2235-add-two-integers) |
+| [3536-maximum-product-of-two-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
