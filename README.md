@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0933-number-of-recent-calls) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
