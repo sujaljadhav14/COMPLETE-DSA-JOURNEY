@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1683-invalid-tweets) |
