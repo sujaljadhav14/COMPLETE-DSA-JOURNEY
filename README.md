@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 ## Union-Find
 |  |
