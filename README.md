@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
