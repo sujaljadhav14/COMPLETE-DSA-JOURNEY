@@ -299,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0268-missing-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
