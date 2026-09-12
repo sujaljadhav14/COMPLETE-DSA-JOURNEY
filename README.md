@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
