@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
