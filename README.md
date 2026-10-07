@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/sujaljadhav14/COMPLETE-DSA-JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 ## Union-Find
 |  |
